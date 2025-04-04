@@ -22,3 +22,14 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# llm-instancer
+desktop.ini
+.env
+llm-instancer/target/
+llm-instancer/src/main/resources/use-7.1.1/
+llm-instancer/src/main/resources/instances/
+llm-instancer/Test
+
+# llm-evaluator
+llm-evaluator/target/
