@@ -33,3 +33,7 @@ llm-instancer/Test
 
 # llm-evaluator
 llm-evaluator/target/
+
+# graphdiff
+*.pyc
+/test
